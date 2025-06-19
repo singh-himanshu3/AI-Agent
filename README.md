@@ -35,6 +35,7 @@ Output: The result is displayed in a structured report format with download opti
 1. Clone the Repository
 
 git clone https://github.com/singh-himanshu3/AI-Agent.git
+
 cd AI-Agent
 
 
@@ -42,6 +43,8 @@ cd AI-Agent
 Manually install the required packages using pip:
 
 pip install streamlit crewai clarifai
+
+
 ✅ Make sure you're using Python 3.8 or above. You can check with python --version.
 
 3. Run the App
